@@ -1,0 +1,48 @@
+.crystal-image {
+	width: 150px;
+    height: 150px;
+    padding: 5px;
+}
+
+body {
+	max-width: 650px;
+	background-image: url("https://www.walldevil.com/wallpapers/w07/simple-simple-background-hd-background.jpg");
+}
+
+h1 {
+	background-color: #cc5d18;
+	color: #ffffff;
+}
+
+#main-content {
+	background-color: #d1ab53;
+	color: #419115;
+}
+
+#randomNumber {
+	background-color: #419115;
+	color: #5b1491;
+	padding-right: 250px;
+	float: left;
+}
+
+#wins-losses-content {
+	background-color: #35eff2;
+	color: #000000;
+}
+
+#totalScore1 {
+	background-color: #028f91;
+	color: #ffffff;
+	padding: 10px;
+}
+
+#totalScore2 {
+	background-color: #028f91;
+	color: #ffffff;
+	padding: 10px;
+}
+
+#crystals {
+	clear: left;
+}
